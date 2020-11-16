@@ -10,7 +10,7 @@ manifest.mf
 *.jar
 *.war
 *.ear
-
+local.properties
 .idea
 target
 *.iml
